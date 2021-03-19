@@ -1,5 +1,4 @@
 from math import factorial
-from itertools import count
 
 
 def factorial_with_recursion(n: int) -> int:
